@@ -112,7 +112,6 @@ Contoh:
 CALL bagian_a('Sitti Rahma', 'IK2411048', 4, 'Informatika');
 CALL bagian_b(21, 4.00, 'LUNAS', 4);
 CALL bagian_c('Sitti Rahma', 'IK2411048', 4, 'Informatika', 21, 4.00, 'LUNAS');
-Kesimpulan Singkat
 
 Program ini menunjukkan bahwa penggunaan blok prosedural dalam MySQL dapat membantu membangun sistem yang:
 
@@ -121,5 +120,3 @@ Mudah digunakan kembali
 Mampu melakukan analisis dan pengambilan keputusan
 
 Semakin kompleks prosedur yang dibuat, semakin tinggi kemampuan sistem dalam mengolah dan mengevaluasi data.
-
-Kalau kamu mau, aku bisa bantu juga:
